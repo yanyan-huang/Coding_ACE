@@ -1,8 +1,8 @@
 """
 Date: Oct 2, 2025
 
-Amazon sells millions of products on its website and for better customer experience we like to show a widget with the "most popular items bought" on the home page.
-You can assume that you told me how you'd go about calculating the top K popular items sold on Amazon.
+XXX sells millions of products on its website and for better customer experience we like to show a widget with the "most popular items bought" on the home page.
+You can assume that you told me how you'd go about calculating the top K popular items sold on XXX.
 I'd like you to tell me how you have a service and your service gets notified in the form of a (Customerld, Itemld, Timestamp) message whenever a customer purchases an item.
 
 Input:
